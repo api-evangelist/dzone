@@ -1,0 +1,52 @@
+{
+    "name": "DZone",
+    "description": "<p>DZone Software provides tools and processes to help customers accelerate productivity through agile learning and knowledge-centered collaboration.&nbsp;<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/dzone-logo.png",
+    "tags": [
+        "have api",
+        "tech news"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/dzone\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "DZone",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/dzone-logo.png",
+            "humanURL": "http:\/\/dzone.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/dzone-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/dzone-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/DZone"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.dzone.com"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/feeds.dzone.com\/home"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/dzone.com"
+        }
+    ]
+}
