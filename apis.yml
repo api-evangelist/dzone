@@ -1,15 +1,21 @@
 aid: dzone
-url: 
-  https://raw.githubusercontent.com/api-evangelist/dzone/refs/heads/main/apis.yml
+url: https://raw.githubusercontent.com/api-evangelist/dzone/refs/heads/main/apis.yml
+modified: '2026-04-28'
+specificationVersion: '0.19'
 apis: []
 name: DZone
 tags:
   - Developer Community
   - Media
   - Software Development
+  - RSS
+  - Publishing
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 access: 3rd-Party
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
 common:
   - url: https://dzone.com/
     name: DZone Website
