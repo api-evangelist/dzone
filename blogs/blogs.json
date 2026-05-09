@@ -2,78 +2,85 @@
   "repo": "dzone",
   "feeds": [
     {
+      "source": "https://dzone.com/pages/feeds",
+      "feed_url": "",
+      "title": "",
+      "saved": 0,
+      "error": "no_feed"
+    },
+    {
       "source": "https://feeds.dzone.com/home",
       "feed_url": "https://feeds.dzone.com/home",
-      "saved": 10,
-      "title": "DZone.com Feed"
+      "title": "DZone.com Feed",
+      "saved": 30
     },
     {
       "source": "https://feeds.dzone.com/java",
       "feed_url": "https://feeds.dzone.com/java",
-      "saved": 10,
-      "title": "DZone Java Zone"
+      "title": "DZone Java Zone",
+      "saved": 0
     },
     {
       "source": "https://feeds.dzone.com/cloud-architecture",
       "feed_url": "https://feeds.dzone.com/cloud-architecture",
-      "saved": 10,
-      "title": "DZone Cloud Architecture Zone"
+      "title": "DZone Cloud Architecture Zone",
+      "saved": 6
     },
     {
       "source": "https://feeds.dzone.com/integration",
       "feed_url": "https://feeds.dzone.com/integration",
-      "saved": 10,
-      "title": "DZone Integration Zone"
+      "title": "DZone Integration Zone",
+      "saved": 4
     },
     {
       "source": "https://feeds.dzone.com/data",
       "feed_url": "https://feeds.dzone.com/data",
-      "saved": 10,
-      "title": "DZone Data Zone"
+      "title": "DZone Data Zone",
+      "saved": 3
     },
     {
       "source": "https://feeds.dzone.com/containers",
       "feed_url": "https://feeds.dzone.com/containers",
-      "saved": 10,
-      "title": "DZone Containers Zone"
+      "title": "DZone Containers Zone",
+      "saved": 0
     },
     {
       "source": "https://feeds.dzone.com/microservices",
       "feed_url": "https://feeds.dzone.com/microservices",
-      "saved": 10,
-      "title": "DZone Microservices Zone"
+      "title": "DZone Microservices Zone",
+      "saved": 2
     },
     {
       "source": "https://feeds.dzone.com/javascript",
       "feed_url": "https://feeds.dzone.com/javascript",
-      "saved": 10,
-      "title": "DZone JavaScript Zone"
+      "title": "DZone JavaScript Zone",
+      "saved": 1
     },
     {
       "source": "https://feeds.dzone.com/open-source",
       "feed_url": "https://feeds.dzone.com/open-source",
-      "saved": 10,
-      "title": "DZone Open Source Zone"
+      "title": "DZone Open Source Zone",
+      "saved": 0
     },
     {
       "source": "https://feeds.dzone.com/performance",
       "feed_url": "https://feeds.dzone.com/performance",
-      "saved": 10,
-      "title": "DZone Performance Zone"
+      "title": "DZone Performance Zone",
+      "saved": 2
     },
     {
       "source": "https://feeds.dzone.com/deployment",
       "feed_url": "https://feeds.dzone.com/deployment",
-      "saved": 10,
-      "title": "DZone Deployment Zone"
+      "title": "DZone Deployment Zone",
+      "saved": 0
     },
     {
       "source": "https://feeds.dzone.com/monitoring-and-observability",
       "feed_url": "https://feeds.dzone.com/monitoring-and-observability",
-      "saved": 10,
-      "title": "DZone Monitoring and Observability Zone"
+      "title": "DZone Monitoring and Observability Zone",
+      "saved": 0
     }
   ],
-  "post_count": 120,
-  "fetched": "2026-05-03T23:27:37Z"
+  "post_count": 168,
+  "fetched": "2026-05-09T20:17:51Z"
 }
