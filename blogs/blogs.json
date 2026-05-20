@@ -18,19 +18,19 @@
       "source": "https://feeds.dzone.com/java",
       "feed_url": "https://feeds.dzone.com/java",
       "title": "DZone Java Zone",
-      "saved": 0
+      "saved": 15
     },
     {
       "source": "https://feeds.dzone.com/cloud-architecture",
       "feed_url": "https://feeds.dzone.com/cloud-architecture",
       "title": "DZone Cloud Architecture Zone",
-      "saved": 6
+      "saved": 7
     },
     {
       "source": "https://feeds.dzone.com/integration",
       "feed_url": "https://feeds.dzone.com/integration",
       "title": "DZone Integration Zone",
-      "saved": 4
+      "saved": 6
     },
     {
       "source": "https://feeds.dzone.com/data",
@@ -42,31 +42,31 @@
       "source": "https://feeds.dzone.com/containers",
       "feed_url": "https://feeds.dzone.com/containers",
       "title": "DZone Containers Zone",
-      "saved": 0
+      "saved": 13
     },
     {
       "source": "https://feeds.dzone.com/microservices",
       "feed_url": "https://feeds.dzone.com/microservices",
       "title": "DZone Microservices Zone",
-      "saved": 2
+      "saved": 1
     },
     {
       "source": "https://feeds.dzone.com/javascript",
       "feed_url": "https://feeds.dzone.com/javascript",
       "title": "DZone JavaScript Zone",
-      "saved": 1
+      "saved": 16
     },
     {
       "source": "https://feeds.dzone.com/open-source",
       "feed_url": "https://feeds.dzone.com/open-source",
       "title": "DZone Open Source Zone",
-      "saved": 0
+      "saved": 20
     },
     {
       "source": "https://feeds.dzone.com/performance",
       "feed_url": "https://feeds.dzone.com/performance",
       "title": "DZone Performance Zone",
-      "saved": 2
+      "saved": 9
     },
     {
       "source": "https://feeds.dzone.com/deployment",
@@ -78,9 +78,9 @@
       "source": "https://feeds.dzone.com/monitoring-and-observability",
       "feed_url": "https://feeds.dzone.com/monitoring-and-observability",
       "title": "DZone Monitoring and Observability Zone",
-      "saved": 0
+      "saved": 6
     }
   ],
-  "post_count": 168,
-  "fetched": "2026-05-09T20:17:51Z"
+  "post_count": 294,
+  "fetched": "2026-05-17T20:48:52Z"
 }
