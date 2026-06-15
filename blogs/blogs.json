@@ -2,10 +2,6 @@
   "repo": "dzone",
   "feeds": [
     {
-      "source": "https://dzone.com/pages/feeds",
-      "error": "HTTPError"
-    },
-    {
       "source": "https://feeds.dzone.com/home",
       "feed_url": "https://feeds.dzone.com/home",
       "title": "",
@@ -16,28 +12,28 @@
       "source": "https://feeds.dzone.com/java",
       "feed_url": "https://feeds.dzone.com/java",
       "title": "",
-      "saved": 1,
+      "saved": 0,
       "method": "feed"
     },
     {
       "source": "https://feeds.dzone.com/cloud-architecture",
       "feed_url": "https://feeds.dzone.com/cloud-architecture",
       "title": "",
-      "saved": 3,
+      "saved": 4,
       "method": "feed"
     },
     {
       "source": "https://feeds.dzone.com/integration",
       "feed_url": "https://feeds.dzone.com/integration",
       "title": "",
-      "saved": 1,
+      "saved": 3,
       "method": "feed"
     },
     {
       "source": "https://feeds.dzone.com/data",
       "feed_url": "https://feeds.dzone.com/data",
       "title": "",
-      "saved": 7,
+      "saved": 3,
       "method": "feed"
     },
     {
@@ -51,7 +47,7 @@
       "source": "https://feeds.dzone.com/microservices",
       "feed_url": "https://feeds.dzone.com/microservices",
       "title": "",
-      "saved": 1,
+      "saved": 0,
       "method": "feed"
     },
     {
@@ -65,14 +61,14 @@
       "source": "https://feeds.dzone.com/open-source",
       "feed_url": "https://feeds.dzone.com/open-source",
       "title": "",
-      "saved": 0,
+      "saved": 1,
       "method": "feed"
     },
     {
       "source": "https://feeds.dzone.com/performance",
       "feed_url": "https://feeds.dzone.com/performance",
       "title": "",
-      "saved": 1,
+      "saved": 3,
       "method": "feed"
     },
     {
@@ -88,8 +84,12 @@
       "title": "",
       "saved": 0,
       "method": "feed"
+    },
+    {
+      "source": "https://dzone.com/pages/feeds",
+      "error": "HTTPError"
     }
   ],
-  "post_count": 338,
-  "fetched": "2026-06-01T23:35:02Z"
+  "post_count": 382,
+  "fetched": "2026-06-14T20:42:17Z"
 }
