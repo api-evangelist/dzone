@@ -19,21 +19,21 @@
       "source": "https://feeds.dzone.com/cloud-architecture",
       "feed_url": "https://feeds.dzone.com/cloud-architecture",
       "title": "",
-      "saved": 4,
+      "saved": 0,
       "method": "feed"
     },
     {
       "source": "https://feeds.dzone.com/integration",
       "feed_url": "https://feeds.dzone.com/integration",
       "title": "",
-      "saved": 3,
+      "saved": 2,
       "method": "feed"
     },
     {
       "source": "https://feeds.dzone.com/data",
       "feed_url": "https://feeds.dzone.com/data",
       "title": "",
-      "saved": 3,
+      "saved": 1,
       "method": "feed"
     },
     {
@@ -54,21 +54,21 @@
       "source": "https://feeds.dzone.com/javascript",
       "feed_url": "https://feeds.dzone.com/javascript",
       "title": "",
-      "saved": 0,
+      "saved": 1,
       "method": "feed"
     },
     {
       "source": "https://feeds.dzone.com/open-source",
       "feed_url": "https://feeds.dzone.com/open-source",
       "title": "",
-      "saved": 1,
+      "saved": 0,
       "method": "feed"
     },
     {
       "source": "https://feeds.dzone.com/performance",
       "feed_url": "https://feeds.dzone.com/performance",
       "title": "",
-      "saved": 3,
+      "saved": 2,
       "method": "feed"
     },
     {
@@ -87,9 +87,12 @@
     },
     {
       "source": "https://dzone.com/pages/feeds",
-      "error": "HTTPError"
+      "feed_url": "https://dzone.com/pages/feeds",
+      "title": "",
+      "saved": 0,
+      "method": "none"
     }
   ],
-  "post_count": 382,
-  "fetched": "2026-06-14T20:42:17Z"
+  "post_count": 453,
+  "fetched": "2026-06-27T12:03:07Z"
 }
