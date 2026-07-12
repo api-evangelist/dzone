@@ -17,6 +17,10 @@ maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
 common:
+  - type: VulnerabilityDisclosure
+    url: security/dzone-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/dzone-domain-security.yml
   - url: https://dzone.com/
     name: DZone Website
     type: Website
