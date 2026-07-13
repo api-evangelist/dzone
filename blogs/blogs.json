@@ -5,7 +5,7 @@
       "source": "https://feeds.dzone.com/home",
       "feed_url": "https://feeds.dzone.com/home",
       "title": "",
-      "saved": 30,
+      "saved": 0,
       "method": "feed"
     },
     {
@@ -26,14 +26,14 @@
       "source": "https://feeds.dzone.com/integration",
       "feed_url": "https://feeds.dzone.com/integration",
       "title": "",
-      "saved": 2,
+      "saved": 0,
       "method": "feed"
     },
     {
       "source": "https://feeds.dzone.com/data",
       "feed_url": "https://feeds.dzone.com/data",
       "title": "",
-      "saved": 1,
+      "saved": 0,
       "method": "feed"
     },
     {
@@ -54,7 +54,7 @@
       "source": "https://feeds.dzone.com/javascript",
       "feed_url": "https://feeds.dzone.com/javascript",
       "title": "",
-      "saved": 1,
+      "saved": 0,
       "method": "feed"
     },
     {
@@ -68,7 +68,7 @@
       "source": "https://feeds.dzone.com/performance",
       "feed_url": "https://feeds.dzone.com/performance",
       "title": "",
-      "saved": 2,
+      "saved": 0,
       "method": "feed"
     },
     {
@@ -93,6 +93,6 @@
       "method": "none"
     }
   ],
-  "post_count": 453,
-  "fetched": "2026-06-27T12:03:07Z"
+  "post_count": 547,
+  "fetched": "2026-07-11T11:50:51Z"
 }
