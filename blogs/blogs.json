@@ -2,6 +2,13 @@
   "repo": "dzone",
   "feeds": [
     {
+      "source": "https://dzone.com/pages/feeds",
+      "feed_url": "https://dzone.com/pages/feeds",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    },
+    {
       "source": "https://feeds.dzone.com/home",
       "feed_url": "https://feeds.dzone.com/home",
       "title": "",
@@ -41,9 +48,7 @@
       "feed_url": "https://feeds.dzone.com/containers",
       "title": "",
       "saved": 0,
-      "method": "feed",
-      "nature": "undetermined",
-      "nature_basis": null
+      "method": "feed"
     },
     {
       "source": "https://feeds.dzone.com/microservices",
@@ -57,18 +62,14 @@
       "feed_url": "https://feeds.dzone.com/javascript",
       "title": "",
       "saved": 0,
-      "method": "feed",
-      "nature": "undetermined",
-      "nature_basis": null
+      "method": "feed"
     },
     {
       "source": "https://feeds.dzone.com/open-source",
       "feed_url": "https://feeds.dzone.com/open-source",
       "title": "",
       "saved": 0,
-      "method": "feed",
-      "nature": "undetermined",
-      "nature_basis": null
+      "method": "feed"
     },
     {
       "source": "https://feeds.dzone.com/performance",
@@ -90,17 +91,10 @@
       "title": "",
       "saved": 0,
       "method": "feed"
-    },
-    {
-      "source": "https://dzone.com/pages/feeds",
-      "feed_url": "https://dzone.com/pages/feeds",
-      "title": "",
-      "saved": 0,
-      "method": "none"
     }
   ],
-  "post_count": 794,
-  "fetched": "2026-08-30T22:33:40Z",
+  "post_count": 831,
+  "fetched": "2026-09-06T19:17:18Z",
   "feed_nature": "undetermined",
   "feed_nature_basis": null,
   "feed_nature_note": "Whether these posts are the vendor publishing or its support community, decided on the URL path grammar of the saved posts -- not the hostname, which carries both on Khoros, and not author diversity, which flags large vendor blogs as forums. 'undetermined' means undetermined."
