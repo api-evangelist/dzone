@@ -64,71 +64,83 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-DZone (https://dzone.com/) is one of the world's largest online communities and a leading publisher of knowledge resources for software engineering professionals. Founded in 1997 with roots in Javalobby, DZone reaches millions of developers each month through articles, tutorials, research guides, and Refcards covering a wide range of technology topics.
+DZone is one of the world's largest online communities and a leading publisher of knowledge resources for software engineering professionals. Founded in 1997 with roots in Javalobby, DZone reaches millions of developers each month with articles, tutorials, research guides, and Refcards covering topics including cloud architecture, Java, JavaScript, microservices, containers, data, DevOps, AI, and more.
 
-## Overview
+**Areas:** Developer Community · Media · Software Development · RSS · Publishing
 
-DZone serves software developers, architects, and technology professionals with practical content on topics including:
+## DZone on APIs.io
 
-- Cloud architecture and infrastructure
-- Java and JVM languages
-- JavaScript and front-end development
-- Microservices and distributed systems
-- Containers and Kubernetes
-- Data engineering and databases
-- DevOps, CI/CD, and deployment
-- AI and machine learning
-- Open source software
-- Performance and observability
-- Integration and APIs
+Everything profiled for DZone is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/dzone/](https://apis.io/providers/dzone/)** — or go straight to one of the APIs or properties below.
 
-## Community and Contribution
+### Published properties
 
-DZone operates as a community-driven platform where technology professionals can contribute their knowledge. Contributors can submit original articles through a moderation process that typically takes three to five business days. DZone also runs the Most Valuable Blogger (MVB) program, which partners with active technical bloggers to cross-publish their content to DZone's audience.
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-- Contribute an article: https://dzone.com/pages/contribute
-- Article submission guidelines: https://dzone.com/articles/dzones-article-submission-guidelines
-- MVB program: https://dzone.com/pages/mvb
-- Writers zone: https://dzone.com/writers-zone
+#### Security (2)
 
-## Publications and Research
+Authentication, trust centre, and vulnerability disclosure.
 
-DZone publishes several types of curated content resources:
+- [Dzone Domain Security](https://apis.io/security/dzone/dzone-domain-security/)
+- [Dzone Vulnerability Disclosure](https://apis.io/security/dzone/dzone-vulnerability-disclosure/)
 
-- **Refcards** — concise reference cards on specific technologies and practices
-- **Research Guides** — in-depth guides on technology topics such as API design, cloud, and DevOps
-- **Trend Reports** — annual research reports on key software development trends
+## Where to find this API
 
-## RSS Feeds
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
-DZone provides RSS feeds for all major content zones, updated throughout the day:
+- [Website](https://dzone.com/)
+- [Documentation](https://dzone.com/refcardz)
+- [Terms of service](https://dzone.com/pages/gdpr/faq)
+- [Privacy policy](https://dzone.com/pages/privacy)
 
-| Feed | URL |
-|------|-----|
-| Main Feed | https://feeds.dzone.com/home |
-| Java | https://feeds.dzone.com/java |
-| JavaScript | https://feeds.dzone.com/javascript |
-| Cloud Architecture | https://feeds.dzone.com/cloud-architecture |
-| Containers | https://feeds.dzone.com/containers |
-| Microservices | https://feeds.dzone.com/microservices |
-| Data | https://feeds.dzone.com/data |
-| Integration | https://feeds.dzone.com/integration |
-| Deployment | https://feeds.dzone.com/deployment |
-| Open Source | https://feeds.dzone.com/open-source |
-| Performance | https://feeds.dzone.com/performance |
-| Monitoring and Observability | https://feeds.dzone.com/monitoring-and-observability |
+## API Evangelist rating
 
-The full list of available feeds is at https://dzone.com/pages/feeds.
+**Kin Score 12.6** — emerging · rubric 0.24.0 · scored 2026-10-17
 
-## Advertising
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 14.3 |
+| Access clarity | 21.1 |
 
-DZone offers advertising solutions for technology brands targeting software engineering professionals, reaching over 4 million monthly visitors. Options include display advertising, email campaigns, and virtual events.
+**Agent readiness 0.0** — human-only
 
-- Advertising overview: https://advertise.dzone.com/
-- Advertising solutions: https://advertise.dzone.com/solutions/
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
 
-## Policies
+**Regulatory alignment 19.6** — Horizontal (data, software, accessibility, platform)
 
-- Privacy Policy: https://dzone.com/pages/privacy
-- GDPR FAQ: https://dzone.com/pages/gdpr/faq
-- About DZone: https://dzone.com/pages/about
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/dzone/](https://apis.io/providers/dzone/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for DZone: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/dzone/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
